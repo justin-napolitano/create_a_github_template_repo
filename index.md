@@ -4,6 +4,7 @@ title: "Using GitHub Template Repositories to Automate Script Deployment"
 date: 2024-06-27T12:00:00Z
 draft: false
 tags: ["GitHub", "Automation", "Templates", "Scripting"]
+categories: ["Tutorials"] 
 ---
 
 # Using GitHub Template Repositories to Automate Script Deployment
