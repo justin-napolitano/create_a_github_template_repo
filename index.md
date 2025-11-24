@@ -1,12 +1,26 @@
 ---
-slug: "github-create-a-github-template-repo"
-title: "create_a_github_template_repo"
-repo: "justin-napolitano/create_a_github_template_repo"
-githubUrl: "https://github.com/justin-napolitano/create_a_github_template_repo"
-generatedAt: "2025-11-23T08:46:34.687487Z"
-source: "github-auto"
+slug: github-create-a-github-template-repo
+title: Automating Script Deployment Using GitHub Template Repositories
+repo: justin-napolitano/create_a_github_template_repo
+githubUrl: https://github.com/justin-napolitano/create_a_github_template_repo
+generatedAt: '2025-11-23T08:46:34.687487Z'
+source: github-auto
+summary: >-
+  Demonstration of using GitHub template repositories and CLI to automate inclusion of
+  synchronization scripts in new repositories.
+tags:
+  - github
+  - template-repositories
+  - script-deployment
+  - automation
+  - github-cli
+seoPrimaryKeyword: github template repositories
+seoSecondaryKeywords:
+  - script deployment
+  - automation
+  - github cli
+seoOptimized: true
 ---
-
 
 # Using GitHub Template Repositories to Automate Script Deployment
 
