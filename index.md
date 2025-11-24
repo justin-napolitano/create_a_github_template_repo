@@ -20,6 +20,13 @@ seoSecondaryKeywords:
   - automation
   - github cli
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 1
+topicFamilyNotes: >-
+  The post is explicitly about automating script deployment using GitHub template repositories and
+  GitHub CLI, fitting perfectly with the 'Automation' family which covers automating build,
+  deployment, git workflows, and content publishing. The example slug matches exactly one listed for
+  'automation'.
 ---
 
 # Using GitHub Template Repositories to Automate Script Deployment
@@ -70,3 +77,4 @@ This project demonstrates using a GitHub repository marked as a template to auto
 - Expanded documentation would support troubleshooting and advanced use cases.
 
 This repository serves primarily as documentation and an example for leveraging GitHub template repositories to automate script deployment across multiple projects. The approach is practical, relying on existing GitHub features and CLI tooling to reduce manual overhead and improve consistency in multi-repository environments.
+
