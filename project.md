@@ -1,20 +1,24 @@
 ---
 slug: github-create-a-github-template-repo
 id: github-create-a-github-template-repo
-title: create_a_github_template_repo
+title: Automate GitHub Template Repositories for Script Deployment
 repo: justin-napolitano/create_a_github_template_repo
 githubUrl: https://github.com/justin-napolitano/create_a_github_template_repo
 generatedAt: '2025-11-24T21:34:21.399Z'
 source: github-auto
 summary: >-
-  This repository demonstrates how to use GitHub template repositories to
-  automate the deployment of common scripts across multiple projects. It
-  provides a practical example to ensure consistent inclusion of a
-  synchronization script in new repositories.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Learn how to use GitHub template repositories to automate the deployment of
+  shared scripts across multiple projects.
+tags:
+  - github
+  - automation
+seoPrimaryKeyword: github template repository automation
+seoSecondaryKeywords:
+  - git clone template repo
+  - github cli commands
+  - repository setup automation
+  - shared scripts in repositories
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
