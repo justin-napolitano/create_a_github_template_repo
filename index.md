@@ -1,32 +1,40 @@
 ---
 slug: github-create-a-github-template-repo
-title: Automating Script Deployment Using GitHub Template Repositories
+title: Automate Script Deployment with GitHub Template Repositories
 repo: justin-napolitano/create_a_github_template_repo
 githubUrl: https://github.com/justin-napolitano/create_a_github_template_repo
 generatedAt: '2025-11-23T08:46:34.687487Z'
 source: github-auto
 summary: >-
-  Demonstration of using GitHub template repositories and CLI to automate inclusion of
-  synchronization scripts in new repositories.
+  Learn how to use GitHub template repositories to automate the deployment of
+  shared scripts across multiple projects effectively.
 tags:
   - github
   - template-repositories
   - script-deployment
   - automation
   - github-cli
-seoPrimaryKeyword: github template repositories
+  - template repositories
+  - git
+  - cli
+  - repository management
+seoPrimaryKeyword: github template repository automation
 seoSecondaryKeywords:
-  - script deployment
-  - automation
-  - github cli
+  - automate script deployment
+  - gitHub CLI usage
+  - repository setup automation
+  - shared scripts management
+  - multi-repository workflows
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 1
 topicFamilyNotes: >-
-  The post is explicitly about automating script deployment using GitHub template repositories and
-  GitHub CLI, fitting perfectly with the 'Automation' family which covers automating build,
-  deployment, git workflows, and content publishing. The example slug matches exactly one listed for
-  'automation'.
+  The post is explicitly about automating script deployment using GitHub
+  template repositories and GitHub CLI, fitting perfectly with the 'Automation'
+  family which covers automating build, deployment, git workflows, and content
+  publishing. The example slug matches exactly one listed for 'automation'.
+kind: project
+id: github-create-a-github-template-repo
 ---
 
 # Using GitHub Template Repositories to Automate Script Deployment
