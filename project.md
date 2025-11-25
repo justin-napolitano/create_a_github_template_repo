@@ -6,9 +6,7 @@ repo: justin-napolitano/create_a_github_template_repo
 githubUrl: https://github.com/justin-napolitano/create_a_github_template_repo
 generatedAt: '2025-11-24T21:34:21.399Z'
 source: github-auto
-summary: >-
-  Learn how to use GitHub template repositories to automate shared script
-  inclusion across projects.
+summary: Learn how to use GitHub template repositories to automate shared script inclusion across projects.
 tags:
   - github
   - automation
@@ -20,8 +18,8 @@ seoSecondaryKeywords:
   - GitHub CLI commands
   - project scaffolding
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: automation
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -90,4 +88,5 @@ This repository demonstrates how to use GitHub template repositories to automate
 - Provide examples for integrating additional shared scripts or configurations
 - Include CI/CD pipeline templates to further standardize project setup
 - Expand documentation with troubleshooting guides and advanced usage scenarios
+
 
