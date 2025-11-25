@@ -7,17 +7,18 @@ githubUrl: https://github.com/justin-napolitano/create_a_github_template_repo
 generatedAt: '2025-11-24T21:34:21.399Z'
 source: github-auto
 summary: >-
-  Learn how to use GitHub template repositories to automate the deployment of
-  shared scripts across multiple projects.
+  Learn how to use GitHub template repositories to automate shared script
+  inclusion across projects.
 tags:
   - github
   - automation
 seoPrimaryKeyword: github template repository automation
 seoSecondaryKeywords:
-  - git clone template repo
-  - github cli commands
-  - repository setup automation
-  - shared scripts in repositories
+  - git clone template
+  - standardize repository setup
+  - shared scripts in GitHub
+  - GitHub CLI commands
+  - project scaffolding
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
